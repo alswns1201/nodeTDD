@@ -1,0 +1,26 @@
+{
+  "name": "nodetdd",
+  "version": "1.0.0",
+  "description": "node.js로 간단히 TDD 공부하기",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alswns1201/nodeTDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alswns1201/nodeTDD/issues"
+  },
+  "homepage": "https://github.com/alswns1201/nodeTDD#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "mongoose": "^8.3.3",
+    "node-mocks-http": "^1.14.1",
+    "supertest": "^7.0.0"
+  }
+}
