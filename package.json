@@ -4,7 +4,7 @@
   "description": "node.js로 간단히 TDD 공부하기",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
